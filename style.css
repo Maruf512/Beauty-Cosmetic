@@ -538,14 +538,14 @@ footer p {
   font-size: 1.2rem;
 }
 
+footer .socialmedia-icon a {
+  color: var(--color-white);
+}
+
 footer .socialmedia-icon {
   font-size: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 1.4rem;
-}
-
-footer .socialmedia-icon a {
-  color: var(--color-white);
 }
